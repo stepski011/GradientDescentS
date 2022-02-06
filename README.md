@@ -2,7 +2,7 @@
 
 Iterative approach for finding the (local) optimum of the function. Algorithm consider function that has been optimized, gradient, starting point, number of iterations and learning rate. The examples is shown on basic function and corresponding gradient.
 
-![alt text](https://cdn.builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/gradient-descent-convex-function.png)
+![alt text](https://raw.githubusercontent.com/MATLAB-Graphics-and-App-Building/Animated-Gradient-Descent/master/saddle1.png)
 
 # Stochastic gradient descent
 
