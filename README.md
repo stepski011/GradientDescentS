@@ -2,8 +2,6 @@
 
 Iterative approach for finding the (local) optimum of the function. Algorithm consider function that has been optimized, gradient, starting point, number of iterations and learning rate. The examples is shown on basic function and corresponding gradient.
 
-![alt text](https://raw.githubusercontent.com/MATLAB-Graphics-and-App-Building/Animated-Gradient-Descent/master/saddle1.png)
-
 # Stochastic gradient descent
 
 The approximation of classic GD, with modification of randomly selecting the initial point. Additionally, stochastic GD algorithm takes batches which randomly dissect all points. Correction of learning rate value is achieved with cosidering previous vector update, and it's computation when calculating the successor. The decay factor value defines the intesity of previous vector impact.
